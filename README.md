@@ -1,16 +1,6 @@
-# second_project
+# Expense Tracker
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+Expense tracker application created using Flutter. Transactions can be added by providing details such as title, amount and date. The list of transaction is displayed on the home page. A visual bar chart showcasing transactions done over the last week is also implemented. Please feel free to raise pull requests :)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
