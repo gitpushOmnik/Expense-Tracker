@@ -10,6 +10,7 @@ import './widgets/chart.dart';
 import './models/transaction.dart';
 
 void main() {
+  //  Used for setting device orientation
   // SystemChrome.setPreferredOrientations([
   //   DeviceOrientation.portraitUp,
   //   DeviceOrientation.portraitUp,
